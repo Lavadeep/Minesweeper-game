@@ -4,4 +4,5 @@
 ![WhatsApp Image 2023-06-01 at 7 41 37 PM (1)](https://github.com/Lavadeep/Minesweeper-game/assets/135134722/3d0713ed-f153-442b-91f6-5b437d7c3230)
 Now if we dug anyother mine it will again show the no.of bombs aroung it.
 when we dig a mine which contains no bomb around it it will flood reveal every other neighbouring empty grids untill a boundary of numbers appears.
+![WhatsApp Image 2023-06-01 at 7 41 37 PM](https://github.com/Lavadeep/Minesweeper-game/assets/135134722/b10cefc8-bcd6-4908-bf20-ae142bb6da36)
 If we dug a mine which contains a bomb it will explode and we will lose. 
